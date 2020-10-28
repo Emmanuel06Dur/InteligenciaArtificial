@@ -1,4 +1,7 @@
-
+.icono{
+    height: 64px;
+    width: 64px;
+}
 .texto{
     text-align: justify;
     padding-left: 5%;
@@ -14,8 +17,7 @@
     width: 410px;
     height: 230px;
 }
-body h1
-{
+body h1{
 	font-weight: 40px;
 	font-size: 30px;
 }
