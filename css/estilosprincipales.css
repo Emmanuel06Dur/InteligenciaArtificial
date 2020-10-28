@@ -3,6 +3,10 @@
     padding-left: 5%;
     padding-right: 5%;
 }
+.icono{
+    height: 64px;
+    width: 64px;
+}
 .titulos{
     padding-left: 5%;
     font-size: 23px;
@@ -13,8 +17,7 @@
     width: 410px;
     height: 230px;
 }
-body h1
-{
+body h1{
 	font-weight: 40px;
 	font-size: 30px;
 }
