@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 .texto{
     text-align: justify;
     padding-left: 5%;
     padding-right: 5%;
+   font-family: 'Lobster', cursive;
 }
 .titulos{
     padding-left: 5%;
@@ -13,3 +15,9 @@
     width: 410px;
     height: 230px;
 }
+body h4
+{
+	font-weight: 10px;
+	font-size: 16px;
+    
+} 
